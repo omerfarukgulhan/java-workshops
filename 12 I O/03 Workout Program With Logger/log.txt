@@ -1,0 +1,10 @@
+Workout Program...
+Burpee Number: 20 
+Pushup Number: 20 
+Situp Number: 20 
+Squat Number: 20 
+1.İşlem ---------->  Hareket : Squat Sayı : 20
+2.İşlem ---------->  Hareket : Burpee Sayı : 20
+3.İşlem ---------->  Hareket : Squad Sayı : 20
+4.İşlem ---------->  Hareket : Situp Sayı : 20
+5.İşlem ---------->  Hareket : Pushup Sayı : 20
